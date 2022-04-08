@@ -1,4 +1,4 @@
-# SVM_Mangroove
+# Using SVM and Random Forest Classifiers for Land cover mapping using Sentinel 2
 
 Using SVM Classifier for land cover mapping using sentinel 2 and mapping mangrooves in Sunderbans.
 
